@@ -36,7 +36,7 @@ commonmark==0.9.1
 comtypes==1.1.2
 confuse==1.0.0
 contextlib2==0.5.5
-cryptography==2.9.2
+cryptography==3.2
 cycler==0.10.0
 Cython==0.25.2
 cytoolz==0.8.2
