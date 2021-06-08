@@ -146,7 +146,7 @@ pep8==1.7.0
 phik==0.9.11
 pickle5==0.0.9
 pickleshare==0.7.4
-Pillow==7.1.2
+Pillow==8.2.0
 pkginfo==1.5.0.1
 pluggy==0.12.0
 ply==3.10
