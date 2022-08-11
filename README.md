@@ -68,3 +68,14 @@ COMMIT-NILM runs on Python 3.0+. The load data generation and cost monitoring mo
 Some of the dependencies are python 3, numpy, pandas, scikit-learn, scipy, psutil, seaborn, matplotlib, json and tqdm.
 
         pip install -r requirements.txt
+        
+## Papers: 
+1. [Computational cost analysis and data-driven predictive modeling of cloud-based online NILM algorithm] (https://ieeexplore.ieee.org/abstract/document/9325000) 
+        @article{asres2021computational,
+          title={Computational cost analysis and data-driven predictive modeling of cloud-based online NILM algorithm},
+          author={Asres, Mulugeta Weldezgina and Ardito, Luca and Patti, Edoardo},
+          journal={IEEE Transactions on Cloud Computing},
+          year={2021},
+          publisher={IEEE}
+        }
+
