@@ -71,6 +71,7 @@ Some of the dependencies are python 3, numpy, pandas, scikit-learn, scipy, psuti
         
 ## Papers: 
 1. [Computational cost analysis and data-driven predictive modeling of cloud-based online NILM algorithm](https://ieeexplore.ieee.org/abstract/document/9325000) 
+        
         @article{asres2021computational,
           title={Computational cost analysis and data-driven predictive modeling of cloud-based online NILM algorithm},
           author={Asres, Mulugeta Weldezgina and Ardito, Luca and Patti, Edoardo},
