@@ -1,5 +1,7 @@
 # COMMIT-NILM: COMputational MonItoring Tool for NILM Algorithms
 
+Source code for Mulugeta W. Asres, et al. *"Computational cost analysis and data-driven predictive modeling of cloud-based online NILM algorithm,"* IEEE Transactions on Cloud Computing, 2021.
+
 COMMIT-NILM provides monitoring, data-driven modeling and analysis for cloud-based NILM (Non-intrusive Load Monitoring) algorithm's computational costs such as processing time and energy consumption from system-level power measurements.
 
 ## Instruction
